@@ -13,6 +13,7 @@ Perform data analysis on Olympic athletes' data using SQL to derive meaningful i
 ## 📂 Dataset
 
 - **File:** `athlete_events.csv`
+- link for the file:https://drive.google.com/file/d/1vKa-2Zy3l6Ax1Xq4PXy9Upt4jFmtfCTs/view?usp=drive_link
 - The dataset contains detailed records of athletes’ participation in Olympic events from 1896 to 2016.
 
 ## 📌 Table Information
